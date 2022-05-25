@@ -84,7 +84,7 @@ class CharacterWidget extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      "Tap to Read more",
+                      "المزيد يا رايئ",
                       style: AppTheme.subHeading,
                     ),
                   ],

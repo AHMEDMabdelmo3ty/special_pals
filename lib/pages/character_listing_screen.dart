@@ -56,7 +56,7 @@ class _CharacterListingScreenState extends State<CharacterListingScreen> {
                       children: [
                         TextSpan(text: "هاى انا سكرول.", style: AppTheme.display1),
                         TextSpan(text: "\n"),
-                        TextSpan(text: "قابل بيفيس! ->", style: AppTheme.display2),
+                        TextSpan(text: "قابل كعبول! ->", style: AppTheme.display2),
                       ],
                     ),
                   ),

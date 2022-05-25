@@ -56,8 +56,8 @@ class _PuzzleState extends State<Puzzle> {
                   ),
                   Column(
                     children: <Widget>[
-                      Text("يحل!", style: TextStyle(color: Colors.black ,fontFamily: 'Nunito', fontSize: 35),),
-                      Text("الالغاز.", style: TextStyle(color: Colors.black ,fontFamily: 'Nunito', fontSize: 35),),
+                      Text("حل", style: TextStyle(color: Colors.black ,fontFamily: 'Nunito', fontSize: 35),),
+                      Text("اللغاز.", style: TextStyle(color: Colors.black ,fontFamily: 'Nunito', fontSize: 35),),
                     ],
                   ),
                 ],
